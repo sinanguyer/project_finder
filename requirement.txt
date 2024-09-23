@@ -1,0 +1,6 @@
+tkinter
+transformers
+sentence-transformers
+docx
+fitz  # PyMuPDF
+pandas
